@@ -1,0 +1,19 @@
+{
+  "name": "starwars-fakename-generator",
+  "version": "1.0.0",
+  "description": "Generates fake name using names from \"Star Wars\"",
+  "keywords": [
+    "star wars",
+    "name generator",
+    "fake name"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ana",
+    "email": "annalezhava39@gmail.com"
+  },
+  "license": "ISC"
+}
